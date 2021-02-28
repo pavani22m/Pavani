@@ -1,0 +1,10 @@
+goodies and prices 
+fitplus:7980
+ipod:22348
+mi band:222
+cult pass:2766
+sandwich:2345
+alexa:1233
+camera:111011
+scale:4999
+oven:9800
